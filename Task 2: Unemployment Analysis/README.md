@@ -73,4 +73,4 @@ This project performs an in-depth exploratory data analysis (EDA) of unemploymen
 **Arooj Gull**  
 Intern at CodeAlpha  
 **Task:** Exploratory Data Analysis - Unemployment in India  
-**Date:** July 2025
+**Duration:** July 2025- Oct 2025
