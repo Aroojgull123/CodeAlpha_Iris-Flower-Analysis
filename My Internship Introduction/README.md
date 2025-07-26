@@ -1,58 +1,62 @@
-# 🌸 Iris Flower Classification - CodeAlpha Internship
-## 🎯 Internship Overview
-This project is part of the **CodeAlpha Internship Program**, a professional and skill-building initiative designed to enhance practical experience in **data analysis**, **machine learning**, and **real-world problem solving**. Through hands-on projects like this one, interns gain exposure to industry-relevant tools, workflows, and best practices.
+# 💼 CodeAlpha Data Science Internship - Overview
+
+## 🚀 About the Internship
+
+The **CodeAlpha Data Science Internship** is a structured, hands-on training program designed to equip aspiring data professionals with practical skills and real-world experience. This internship bridges the gap between academic learning and industry expectations by engaging interns in high-impact data projects and challenges.
+
+Through this program, interns work on a range of tasks involving:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Visualization
+- Machine Learning Modeling
+- Report Writing and GitHub Documentation
+
+The internship is ideal for individuals aiming to build a strong foundation in **Data Science**, **Python Programming**, and **Machine Learning**, while also enhancing their professional portfolio.
 
 ---
 
-## 📌 Project Title
+## 🎯 Internship Objectives
 
-**Iris Flower Classification Using Machine Learning**
-
----
-
-## 📚 Project Description
-
-This project involves analyzing the famous **Iris flower dataset**, one of the most well-known datasets in the field of pattern recognition. The objective is to:
-
-- Perform **exploratory data analysis (EDA)** to understand feature relationships.
-- Apply **machine learning algorithms** to classify iris flowers into three species:
-  - *Setosa*
-  - *Versicolor*
-  - *Virginica*
-- Evaluate the performance of models using metrics such as accuracy and confusion matrix.
-
-This task is an excellent entry point into supervised learning and classification problems.
+- Apply **data science techniques** to real-world datasets.
+- Strengthen understanding of the **data analysis lifecycle**.
+- Gain exposure to **ML algorithms**, workflows, and evaluation metrics.
+- Develop strong **project documentation** and **GitHub collaboration** skills.
+- Build a portfolio of well-documented, deployable projects.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools & Technologies Used
 
-- **Python**
-- **Pandas & NumPy** for data handling
-- **Matplotlib & Seaborn** for data visualization
-- **Scikit-learn** for machine learning models
-
----
-
-## 🧠 Learning Objectives
-
-- Gain hands-on experience with a complete **machine learning pipeline**
-- Enhance data wrangling and visualization skills
-- Understand how classification algorithms work and how to evaluate them
-- Practice professional coding, documentation, and GitHub collaboration
+- **Programming**: Python
+- **Data Analysis**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn
+- **Version Control**: Git & GitHub
+- **Hosting (Optional)**: Netlify, GitHub Pages
 
 ---
 
-## 👤 Author
+## 📌 My Contribution
 
-**Arooj Gull**  
-Intern at CodeAlpha  
-Project: Iris Flower Classification  
-Date: July 2025
+During the internship, I have completed a variety of tasks including:
+- Classification problems (e.g., **Iris Flower Classification**)
+- Exploratory Data Analysis projects (e.g., Unemployment Rate in India)
+- Writing clear and professional `README.md` files
+- Visualizing data trends using graphs and heatmaps
+
+Each project reflects a step-by-step ML pipeline — from **data preprocessing** to **model evaluation**.
 
 ---
+
+## 👩‍💻 Intern Profile
+
+**Name:** Arooj Gull  
+**Role:** Data Science Intern  
+**Organization:** CodeAlpha  
+**Duration:** July 2025-Oct 2025
+**GitHub Profile:** https://github.com/Aroojgull123/CodeAlpha_Iris-Flower-Analysis/tree/main
 
 ## 📎 Note
 
-This project was completed as a **CodeAlpha Internship Task**.  
-For more information, visit: [CodeAlpha GitHub](https://github.com/CodeAlphaHub)
+This folder serves as a central hub for my **internship documentation** and an overview of the projects completed under the **CodeAlpha Internship Program**.  
+To explore individual projects, visit the respective folders in this repository or view my GitHub contributions.
+
